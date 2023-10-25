@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Watch Concept: Through the Windowpane
-date: 2023-10-25
+title: "Watch Concept: Through the Windowpane"
+date: 2023-10-24
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: capiz.JPG
 tags: [Programming, Learn] # add tag
