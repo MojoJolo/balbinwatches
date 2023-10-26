@@ -5,7 +5,7 @@ date: 2023-10-23
 description: Coming soon. A concept watch using capiz shells.
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Bespoke, Balbin Watches]
 ---
 
 A watch concept: "Through the Windowpane: Horizon"
