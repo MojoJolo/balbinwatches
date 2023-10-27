@@ -18,7 +18,18 @@ I personally handcrafted the dial for this watch. To start, the dial was coated 
 I will be producing only five Alpha watches, and each one will have its own unique number.
 
 ### Specifications
-
+- Case: Oyster-like 316L Stainless Steel
+- Case Size: 36mm
+- Case Height: 
+- Lug-to-lug length: 45mm
+- Lug width: 20mm
+- Crystal: 
+- Movement: Seiko Instruments Inc. NH38
+- Power Reserve: 41 Hours
 
 ### Pre-order
-For those interested on purchasing the watch, please register your interest in this form. Don't worry, no payment required yet. I will contact you afterwards.
+For those interested in purchasing the watch, please register your interest using this form:
+
+link here
+
+Don't worry, no payment is required at this stage. I will contact you afterward.
