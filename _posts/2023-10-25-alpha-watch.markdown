@@ -7,6 +7,8 @@ img: alpha.JPG
 fig-caption: Alpha
 tags: []
 ---
+**₱12,500.00**
+
 Introducing Alpha, the debut timepiece of Balbin Watches.
 
 The name was inspired by [Alpha 5](https://en.wikipedia.org/wiki/Alpha_5_(Power_Rangers)), the red robot character in Mighty Morphin Power Rangers. It is a show that I loved watching as a kid. The five red dots on the dial serve as a subtle tribute to Alpha 5's signature color. These dots add color and playfulness to the watch's aesthetic.
