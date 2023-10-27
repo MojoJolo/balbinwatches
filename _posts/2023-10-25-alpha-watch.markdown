@@ -15,16 +15,16 @@ The name was inspired by Alpha 5, the red robot character in Mighty Morphin Powe
 
 I personally handcrafted the dial for this watch. To start, the dial was coated with a pearl-white lacquer as its foundation. The dot indices were painted with acrylic paint, applied using stencils and an airbrush. Additionally, the chapter ring, text, and logo were all manually pad-printed by hand. After all these processes, I assembled the watch within a stainless steel case with an automatic movement.
 
-I will be producing only five Alpha watches, and each one will have its own unique number.
+I will be producing only **five** Alpha watches, and each one will have its own unique number.
 
 ### Specifications
-- Case: Oyster-like 316L Stainless Steel
+- Case: Stainless Steel
 - Case Size: 36mm
-- Case Height: 
+- Case Height: 11mm (13mm including crystal)
 - Lug-to-lug length: 45mm
 - Lug width: 20mm
-- Crystal: 
-- Movement: Seiko Instruments Inc. NH38
+- Crystal: Domed Mineral Glass
+- Movement: Seiko (TMI) NH38 Automatic Movement
 - Power Reserve: 41 Hours
 
 ### Pre-order
