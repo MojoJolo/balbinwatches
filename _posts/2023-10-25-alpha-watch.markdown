@@ -30,7 +30,7 @@ I will be producing only **five** Alpha watches, and each one will have its own 
 - Strap: Quick Release Waterproof Rubber Strap with Cowhide Leather
 - Warranty: One Year Service Warranty
 
-### Pre-order
+### How to order
 For those interested in purchasing the watch, please register your interest using this form:
 
 link here
