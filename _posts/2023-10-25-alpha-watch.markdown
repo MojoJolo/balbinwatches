@@ -33,6 +33,6 @@ I will be producing only **five** Alpha watches, and each one will have its own 
 ### How to order
 For those interested in purchasing the watch, please register your interest using this form:
 
-link here
+[https://forms.gle/2qEKsMbGBxrKBmp57](https://forms.gle/2qEKsMbGBxrKBmp57)
 
 Don't worry, no payment is required at this stage. I will contact you afterward.
