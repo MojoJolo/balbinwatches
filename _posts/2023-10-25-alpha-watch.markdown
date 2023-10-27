@@ -27,7 +27,7 @@ I will be producing only **five** Alpha watches, and each one will have its own 
 - Movement: Seiko (TMI) NH38 Automatic Movement
 - Power Reserve: 41 Hours
 - Water Resistance: 1 ATM
-- Strap: Waterproof Rubber Strap with Cowhide Leather
+- Strap: Quick Release Waterproof Rubber Strap with Cowhide Leather
 - Warranty: One Year Service Warranty
 
 ### Pre-order
