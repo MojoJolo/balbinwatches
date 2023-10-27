@@ -2,7 +2,7 @@
 layout: post
 title: Alpha (Limited)
 date: 2023-10-25
-description: The debut timepiece from Balbin Watches introduces a captivating blend of creativity and distinctiveness with its playful and distinctive dial. This watch effortlessly sets itself apart, promising a truly unique and delightful timekeeping experience.
+description: My debut timepiece from Balbin Watches introduces a blend of creativity with its playful and distinctive dial. This watch will be limited and only five will be made.
 img: alpha.JPG
 fig-caption: Alpha
 tags: []
