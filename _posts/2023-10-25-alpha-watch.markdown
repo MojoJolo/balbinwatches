@@ -18,17 +18,17 @@ I personally handcrafted the dial for this watch. To start, the dial was coated 
 I will be producing only **five** Alpha watches, and each one will have its own unique number.
 
 ### Specifications
-- Case: Stainless Steel
+- Case: Stainless steel with screw down crown and engraved case back
 - Case Size: 36mm
 - Case Height: 11mm (13mm including crystal)
 - Lug-to-lug length: 44mm
 - Lug width: 20mm
-- Crystal: Domed Mineral Glass
-- Movement: Seiko (TMI) NH38 Automatic Movement
-- Power Reserve: 41 Hours
-- Water Resistance: 1 ATM
-- Strap: Quick Release Waterproof Rubber Strap with Cowhide Leather
-- Warranty: One Year Service Warranty
+- Crystal: Domed mineral glass
+- Movement: Seiko (TMI) NH38 automatic movement
+- Power Reserve: 41 hours
+- Water Resistance: 3 ATM
+- Strap: Quick release waterproof rubber strap with wowhide leather
+- Warranty: One year service warranty
 
 ### How to order
 For those interested in purchasing the watch, please register your interest using this form:
