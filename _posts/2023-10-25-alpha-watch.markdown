@@ -13,14 +13,14 @@ Introducing Alpha, my debut timepiece from Balbin Watches.
 
 The name was inspired by Alpha 5, the red robot character in Mighty Morphin Power Rangers, a show I really liked from my childhood. The five red dots on the dial serve as a subtle tribute to Alpha 5's signature color. I believe that these dots add vibrancy and playfulness to the watch's aesthetic.
 
-I personally handcrafted the dial for this watch. To start, the dial was coated with a pearl-white lacquer as its foundation. The dot indices were painted with acrylic paint, applied using stencils and an airbrush. Additionally, the chapter ring, text, and logo were all manually pad-printed. After all these processes, I assembled the watch within a stainless steel case with an automatic movement.
+I personally crafted the dial for this watch. To start, the dial was coated with a pearl-white lacquer as its foundation. The dot indices were painted with acrylic paint, applied using stencils and an airbrush. Additionally, the chapter ring and the logo were laser etched. After all these processes, I assembled the watch within a stainless steel case with an automatic movement.
 
-Since I'm mostly producing them manually, Alpha will have a limited release of only **ten (10)** watches, each one numbered.
+Since I'm mostly producing them manually, Alpha will have a limited release of only **XX (xx)** watches, each one numbered.
 
 ### Specifications
 - Case: Stainless steel with screw down crown and engraved case back
 - Case Size: 36mm
-- Case Height: 11mm (13mm including crystal)
+- Case Height: 12.25mm (not including crystal)
 - Lug-to-lug length: 44mm
 - Lug width: 20mm
 - Crystal: Domed mineral glass
