@@ -22,7 +22,7 @@ Since I'm mostly producing them manually, Alpha will have a limited release of o
 - Case Size: 36mm
 - Case Height: 12.25mm (not including crystal)
 - Lug-to-lug length: 44mm
-- Lug width: 20mm
+- Lug Width: 20mm
 - Crystal: Domed mineral glass
 - Movement: Seiko (TMI) NH38 automatic movement
 - Power Reserve: 41 hours
