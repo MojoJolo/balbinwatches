@@ -15,7 +15,7 @@ The name was inspired by Alpha 5, the red robot character in Mighty Morphin Powe
 
 I personally crafted the dial for this watch. To start, the dial was coated with a pearl-white lacquer as its foundation. The dot indices were painted with acrylic paint, applied using stencils and an airbrush. Additionally, the chapter ring and the logo were laser etched. After all these processes, I assembled the watch within a stainless steel case with an automatic movement.
 
-Since I'm mostly producing them manually, Alpha will have a limited release of only **XX (xx)** watches, each one numbered.
+Since I'm mostly producing them manually, Alpha will have a limited release of only **ten (10)** watches, each one numbered.
 
 ### Specifications
 - Case: Stainless steel with screw down crown and engraved case back
