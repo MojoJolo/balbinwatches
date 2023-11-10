@@ -7,7 +7,7 @@ img: alpha.JPG
 fig-caption: Alpha
 tags: []
 ---
-**₱12,500.00**
+**₱13,000.00**
 
 Introducing Alpha, my debut timepiece from Balbin Watches.
 
@@ -23,11 +23,11 @@ Since I'm mostly producing them manually, Alpha will have a limited release of o
 - Case Height: 12.25mm (not including crystal)
 - Lug-to-lug length: 44mm
 - Lug Width: 20mm
-- Crystal: Domed mineral glass
+- Crystal: Domed sapphire crystal
 - Movement: Seiko (TMI) NH38 automatic movement
 - Power Reserve: 41 hours
 - Water Resistance: 3 ATM
-- Strap: Quick release waterproof rubber strap with wowhide leather
+- Strap: Quick release waterproof rubber strap with cowhide leather
 - Warranty: One year service warranty
 
 ### How to order
