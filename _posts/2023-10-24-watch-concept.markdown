@@ -4,6 +4,7 @@ title: "Watch Concept: Through the Windowpane"
 date: 2023-10-24
 description: Coming soon. A concept watch using capiz shells.
 img: capiz.JPG
+header-img: capiz.JPG
 tags: []
 ---
 A watch concept: "Through the Windowpane: Horizon"
