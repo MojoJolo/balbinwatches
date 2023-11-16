@@ -2,13 +2,13 @@
 layout: post
 title: Alpha (Limited)
 date: 2023-10-25
-description: My debut timepiece from Balbin Watches introduces a blend of creativity with its playful and distinctive dial. This watch will be limited and only five will be made.
+description: My debut timepiece from Balbin Watches introduces a blend of creativity with its playful and distinctive dial. This watch will be limited and only ten will be made.
 img: alpha-main-1.jpeg
 header-img: alpha-header.JPG
 fig-caption: Alpha
 tags: []
 ---
-**₱12,500.00**
+**₱12,000.00**
 
 Introducing Alpha, my debut timepiece from Balbin Watches.
 
