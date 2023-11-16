@@ -40,4 +40,6 @@ Don't worry, no payment is required at this stage. I will contact you afterward.
 
 ### Gallery
 
+![alpha-main-3.jpeg]({{site.baseurl}}/assets/img/alpha-main-3.JPG)
 ![alpha-main-2.jpeg]({{site.baseurl}}/assets/img/alpha-main-2.JPG)
+![alpha-lume.JPG]({{site.baseurl}}/assets/img/alpha-lume.JPG)
