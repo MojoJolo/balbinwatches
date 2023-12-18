@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Alpha (Limited)
+title: Alpha (Discontinued)
 date: 2023-10-25
-description: My debut timepiece from Balbin Watches introduces a blend of creativity with its playful and distinctive dial. This watch will be limited and only ten will be made.
+description: Due to unsatisfactory quality, I am discontinued the launch of Alpha. Old description: My debut timepiece from Balbin Watches introduces a blend of creativity with its playful and distinctive dial. This watch will be limited and only ten will be made.
 img: alpha-main-1.jpeg
 header-img: alpha-header.JPG
 fig-caption: Alpha
