@@ -4,9 +4,12 @@ title: Personal Watch - Silhouette Series
 date: 2023-10-25
 description: "This is the watch that started the Silhouette Series. It became my personal timepiece, and I've been using it as my daily driver."
 img: silhouette-personal.JPG
+header-img: ss-set.jpg
 fig-caption: Personal Watch - Silhouette Series
 tags: [silhouette]
 ---
+![silhouette-personal.JPG]({{site.baseurl}}/assets/img/silhouette-personal.JPG)
+
 This is the watch that started the Silhouette Series.
 
 Inspired by the distinct design of Ming Watches, I experimented to see if it would complement my own design. The initial results looked promising, and I ended up creating this watch. It has become my personal timepiece, which I use daily. The obvious hour markers, along with the lume around the dial and hands, make it highly legible and perfect for daily wear.
