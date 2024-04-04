@@ -1,6 +1,6 @@
 title: Balbin Watches
 description: > # this means to ignore newlines until "baseurl:"
-  A fun and unique watchmaker based in the Philippines.
+  I am Jolo Balbin, an aspiring watchmaker based in the Philippines. I create unique and bespoke watches, considering each piece as an artwork.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.balbinwatches.com" # the base hostname & protocol for your site, e.g. http://example.com
