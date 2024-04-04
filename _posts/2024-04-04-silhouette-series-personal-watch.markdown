@@ -7,6 +7,10 @@ img: silhouette-personal.JPG
 fig-caption: Personal Watch - Silhouette Series
 tags: [silhouette]
 ---
+This is the watch that started the Silhouette Series.
+
+Inspired by the distinct design of Ming Watches, I experimented to see if it would complement my own design. The initial results looked promising, and I ended up creating this watch. It has become my personal timepiece, which I use daily. The obvious hour markers, along with the lume around the dial and hands, make it highly legible and perfect for daily wear.
+
 ### About the Silhouette Series
 The Silhouette Series is the first bespoke style of Balbin Watches. The style features a black outline ‘silhouette’ at the back of a sapphire crystal, serving as its signature design.
 The dial will showcase a minimalist pattern to establish contrast with the crystal. In specific lighting and angles, the shadow from the crystal will be visible on the dial, creating a unique visual effect.
