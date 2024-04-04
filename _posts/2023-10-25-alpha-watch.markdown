@@ -42,9 +42,9 @@ Don't worry, no payment is required at this stage. I will contact you afterward.
 
 <table style="padding:10px">
   <tr>
-    <td><img src="{{site.baseurl}}/assets/img/alpha-main-3.JPG"  alt="1" width=250px></td>
-    <td><img src="{{site.baseurl}}/assets/img/alpha-main-2.JPG" align="right" alt="2" width=250px></td>
-    <td><img src="{{site.baseurl}}/assets/img/alpha-lume.JPG" alt="3" width=250px></td>
+    <td><img src="{{site.baseurl}}/assets/img/alpha-main-3.JPG" width=250px style="text-align: center; vertical-align: middle;"></td>
+    <td><img src="{{site.baseurl}}/assets/img/alpha-main-2.JPG" width=250px style="text-align: center; vertical-align: middle;"></td>
+    <td><img src="{{site.baseurl}}/assets/img/alpha-lume.JPG" width=250px style="text-align: center; vertical-align: middle;"></td>
   </tr>
 </table>
 
