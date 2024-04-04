@@ -4,7 +4,6 @@ title: Personal Watch - Silhouette Series
 date: 2023-10-25
 description: "This is the watch that started the Silhouette Series. It became my personal timepiece, and I've been using it as my daily driver."
 img: silhouette-personal.JPG
-header-img: silhouette-personal.JPG
 fig-caption: Personal Watch - Silhouette Series
 tags: [silhouette]
 ---
